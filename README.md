@@ -29,7 +29,7 @@
 * **Why I did this project:** It's from Matheus Battisti's course, Bootstrap 5 - Beginners to Advanced (w/ 4 projects), on Udemy;
 * **Technologies:** HTML, CSS & Bootstrap;
 * **Description:** It's a simple art gallery website, with a responsive layout, made with Bootstrap 5;
-* **How this peoject was made:** It is a follow the step-by-step guide project, that I did to learn Bootstrap 5, as a part of the course. Design and code are mostly from the teacher, Matheus Battisti. To see another project that I did all by myself using Bootstrap, check out [this one](https://rodrigomarchisilva.github.io/) as an example;
+* **How this project was made:** It is a follow the step-by-step guide project, that I did to learn Bootstrap 5, as a part of the course. Design and code are mostly from the teacher, Matheus Battisti. To see another project that I did all by myself using Bootstrap, check out [this one](https://rodrigomarchisilva.github.io/) as an example;
 * **Commit history:** It might be a bit messy or cut by half in some projects, either because I had to migrate the project to a new repository and lost the first commits, or because, at the time, I had not yet learned how to use atomic and conventional commits.
 
 ### :computer: How to run it on your computer through VSCode
